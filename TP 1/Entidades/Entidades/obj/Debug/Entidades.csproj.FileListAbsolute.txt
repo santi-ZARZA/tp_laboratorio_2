@@ -1,0 +1,12 @@
+C:\Users\Iglesia de la Gracia\Desktop\Entidades\Entidades\bin\Debug\Entidades.dll
+C:\Users\Iglesia de la Gracia\Desktop\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Iglesia de la Gracia\Desktop\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Iglesia de la Gracia\Desktop\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Iglesia de la Gracia\Desktop\Entidades\Entidades\obj\Debug\Entidades.dll
+C:\Users\Iglesia de la Gracia\Desktop\Entidades\Entidades\obj\Debug\Entidades.pdb
+C:\Users\santi\Desktop\tp_laboratorio_2-master\TP 1\Entidades\Entidades\bin\Debug\Entidades.dll
+C:\Users\santi\Desktop\tp_laboratorio_2-master\TP 1\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\santi\Desktop\tp_laboratorio_2-master\TP 1\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\tp_laboratorio_2-master\TP 1\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\tp_laboratorio_2-master\TP 1\Entidades\Entidades\obj\Debug\Entidades.dll
+C:\Users\santi\Desktop\tp_laboratorio_2-master\TP 1\Entidades\Entidades\obj\Debug\Entidades.pdb
