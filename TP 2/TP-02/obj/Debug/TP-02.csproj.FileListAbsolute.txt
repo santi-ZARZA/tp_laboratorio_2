@@ -1,0 +1,10 @@
+C:\Users\santi\Desktop\TP-02n\TP-02\TP-02\obj\Debug\TP-02.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\TP-02n\TP-02\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\TP-02n\TP-02\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\santi\Desktop\TP-02n\TP-02\TP-02\bin\Debug\TP-02.exe
+C:\Users\santi\Desktop\TP-02n\TP-02\TP-02\bin\Debug\TP-02.pdb
+C:\Users\santi\Desktop\TP-02n\TP-02\TP-02\bin\Debug\Entidades.dll
+C:\Users\santi\Desktop\TP-02n\TP-02\TP-02\bin\Debug\Entidades.pdb
+C:\Users\santi\Desktop\TP-02n\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+C:\Users\santi\Desktop\TP-02n\TP-02\TP-02\obj\Debug\TP-02.exe
+C:\Users\santi\Desktop\TP-02n\TP-02\TP-02\obj\Debug\TP-02.pdb
