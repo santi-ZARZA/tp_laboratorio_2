@@ -1,0 +1,41 @@
+C:\Users\Iglesia de la Gracia\Desktop\Entidades\FrmPpal\bin\Debug\FrmPpal.exe.config
+C:\Users\Iglesia de la Gracia\Desktop\Entidades\FrmPpal\bin\Debug\FrmPpal.exe
+C:\Users\Iglesia de la Gracia\Desktop\Entidades\FrmPpal\bin\Debug\FrmPpal.pdb
+C:\Users\Iglesia de la Gracia\Desktop\Entidades\FrmPpal\bin\Debug\Entidades.dll
+C:\Users\Iglesia de la Gracia\Desktop\Entidades\FrmPpal\bin\Debug\Entidades.pdb
+C:\Users\Iglesia de la Gracia\Desktop\Entidades\FrmPpal\bin\Debug\Entidades.dll.config
+C:\Users\Iglesia de la Gracia\Desktop\Entidades\FrmPpal\obj\Debug\FrmPpal.Properties.Resources.resources
+C:\Users\Iglesia de la Gracia\Desktop\Entidades\FrmPpal\obj\Debug\FrmPpal.csproj.GenerateResource.Cache
+C:\Users\Iglesia de la Gracia\Desktop\Entidades\FrmPpal\obj\Debug\FrmPpal.csproj.CoreCompileInputs.cache
+C:\Users\Iglesia de la Gracia\Desktop\Entidades\FrmPpal\obj\Debug\FrmPpal.exe
+C:\Users\Iglesia de la Gracia\Desktop\Entidades\FrmPpal\obj\Debug\FrmPpal.pdb
+C:\Users\Iglesia de la Gracia\Desktop\Entidades\FrmPpal\obj\Debug\FrmPpal.FrmPpal.resources
+C:\Users\Iglesia de la Gracia\Desktop\Entidades\FrmPpal\obj\Debug\FrmPpal.csprojResolveAssemblyReference.cache
+C:\Users\Iglesia de la Gracia\Desktop\RECUPERATORIO tpº4\Entidades\FrmPpal\bin\Debug\FrmPpal.exe.config
+C:\Users\Iglesia de la Gracia\Desktop\RECUPERATORIO tpº4\Entidades\FrmPpal\bin\Debug\FrmPpal.exe
+C:\Users\Iglesia de la Gracia\Desktop\RECUPERATORIO tpº4\Entidades\FrmPpal\bin\Debug\FrmPpal.pdb
+C:\Users\Iglesia de la Gracia\Desktop\RECUPERATORIO tpº4\Entidades\FrmPpal\bin\Debug\Entidades.dll
+C:\Users\Iglesia de la Gracia\Desktop\RECUPERATORIO tpº4\Entidades\FrmPpal\bin\Debug\Entidades.pdb
+C:\Users\Iglesia de la Gracia\Desktop\RECUPERATORIO tpº4\Entidades\FrmPpal\bin\Debug\Entidades.dll.config
+C:\Users\Iglesia de la Gracia\Desktop\RECUPERATORIO tpº4\Entidades\FrmPpal\obj\Debug\FrmPpal.csprojAssemblyReference.cache
+C:\Users\Iglesia de la Gracia\Desktop\RECUPERATORIO tpº4\Entidades\FrmPpal\obj\Debug\FrmPpal.FrmPpal.resources
+C:\Users\Iglesia de la Gracia\Desktop\RECUPERATORIO tpº4\Entidades\FrmPpal\obj\Debug\FrmPpal.Properties.Resources.resources
+C:\Users\Iglesia de la Gracia\Desktop\RECUPERATORIO tpº4\Entidades\FrmPpal\obj\Debug\FrmPpal.csproj.GenerateResource.cache
+C:\Users\Iglesia de la Gracia\Desktop\RECUPERATORIO tpº4\Entidades\FrmPpal\obj\Debug\FrmPpal.csproj.CoreCompileInputs.cache
+C:\Users\Iglesia de la Gracia\Desktop\RECUPERATORIO tpº4\Entidades\FrmPpal\obj\Debug\FrmPpal.csproj.CopyComplete
+C:\Users\Iglesia de la Gracia\Desktop\RECUPERATORIO tpº4\Entidades\FrmPpal\obj\Debug\FrmPpal.exe
+C:\Users\Iglesia de la Gracia\Desktop\RECUPERATORIO tpº4\Entidades\FrmPpal\obj\Debug\FrmPpal.pdb
+C:\Users\Iglesia de la Gracia\Desktop\TP 4\Entidades\FrmPpal\bin\Debug\FrmPpal.exe.config
+C:\Users\Iglesia de la Gracia\Desktop\TP 4\Entidades\FrmPpal\bin\Debug\FrmPpal.exe
+C:\Users\Iglesia de la Gracia\Desktop\TP 4\Entidades\FrmPpal\bin\Debug\FrmPpal.pdb
+C:\Users\Iglesia de la Gracia\Desktop\TP 4\Entidades\FrmPpal\bin\Debug\Entidades.dll
+C:\Users\Iglesia de la Gracia\Desktop\TP 4\Entidades\FrmPpal\bin\Debug\Entidades.pdb
+C:\Users\Iglesia de la Gracia\Desktop\TP 4\Entidades\FrmPpal\bin\Debug\Entidades.dll.config
+C:\Users\Iglesia de la Gracia\Desktop\TP 4\Entidades\FrmPpal\obj\Debug\FrmPpal.csprojAssemblyReference.cache
+C:\Users\Iglesia de la Gracia\Desktop\TP 4\Entidades\FrmPpal\obj\Debug\FrmPpal.FrmPpal.resources
+C:\Users\Iglesia de la Gracia\Desktop\TP 4\Entidades\FrmPpal\obj\Debug\FrmPpal.Properties.Resources.resources
+C:\Users\Iglesia de la Gracia\Desktop\TP 4\Entidades\FrmPpal\obj\Debug\FrmPpal.csproj.GenerateResource.cache
+C:\Users\Iglesia de la Gracia\Desktop\TP 4\Entidades\FrmPpal\obj\Debug\FrmPpal.csproj.CoreCompileInputs.cache
+C:\Users\Iglesia de la Gracia\Desktop\TP 4\Entidades\FrmPpal\obj\Debug\FrmPpal.csproj.CopyComplete
+C:\Users\Iglesia de la Gracia\Desktop\TP 4\Entidades\FrmPpal\obj\Debug\FrmPpal.exe
+C:\Users\Iglesia de la Gracia\Desktop\TP 4\Entidades\FrmPpal\obj\Debug\FrmPpal.pdb
